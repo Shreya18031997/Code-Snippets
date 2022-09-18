@@ -1,3 +1,3 @@
 # Code-Snippets
 
-Adding code solutions for multiple questions
+Adding coding solutions for multiple questions
